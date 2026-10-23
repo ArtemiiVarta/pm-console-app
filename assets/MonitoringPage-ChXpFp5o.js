@@ -1,0 +1,1 @@
+import{t as e}from"./jsx-runtime-Ae16PnVC.js";import{Bn as t}from"./index-Bbyoxg4i.js";import{t as n}from"./ComingSoonPage-CeB-zSmO.js";var r=e();function i(){return(0,r.jsx)(n,{icon:t,title:`Monitoring`,description:`Track actual hours, status, risks and issues.`})}export{i as MonitoringPage};

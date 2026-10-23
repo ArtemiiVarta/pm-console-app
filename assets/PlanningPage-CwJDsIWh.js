@@ -1,0 +1,1 @@
+import{t as e}from"./jsx-runtime-Ae16PnVC.js";import{Rn as t}from"./index-Bbyoxg4i.js";import{t as n}from"./ComingSoonPage-CeB-zSmO.js";var r=e();function i(){return(0,r.jsx)(n,{icon:t,title:`Planning`,description:`Plan tasks and sprints against team capacity.`})}export{i as PlanningPage};
